@@ -1,0 +1,8 @@
+
+- escolher qtd de questões
+- selecionar categoria (https://opentdb.com/api_category.php)
+- selecionar dificuldade (easy, medium, hard)
+- selecionar tipo (multipla escolhas)
+- confirmar busca
+- exibir perguntas e alternativas na tela
+- fazer loading para exibir e trocar perguntas
